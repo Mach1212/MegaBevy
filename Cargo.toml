@@ -1,7 +1,7 @@
 [workspace]
 members = ["asteroids", "collisionz"]
 exclude = []
-resolver="2"
+resolver = "2"
 
 # Enable a small amount of optimization in debug mode
 [profile.dev]
