@@ -1,5 +1,5 @@
 [workspace]
-members = ["snake"]
+members = ["asteroids", "collisionz"]
 exclude = []
 
 # Enable a small amount of optimization in debug mode
