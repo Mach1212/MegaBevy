@@ -1,5 +1,5 @@
 [workspace]
-members = ["asteroids", "collisionz"]
+members = ["bouncy_squares"]
 exclude = []
 resolver = "2"
 
